@@ -1,0 +1,26 @@
+.content-centered {
+    display: flex;
+    flex-direction: column;
+}
+
+.content-justify-centered {
+    display: flex;
+    justify-content: center;
+}
+
+.img-div {
+    max-width: 80%;
+}
+
+.card-house {
+    padding: 5%;
+}
+
+.p-padding {
+    padding: 1% 5%;
+    text-align: justify;
+}
+
+.card-text {
+    text-align: justify;
+}
